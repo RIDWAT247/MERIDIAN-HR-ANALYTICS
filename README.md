@@ -59,7 +59,7 @@ Absenteeism_Days
 
 Turnover_Status
 
-SQL Analysis
+# SQL Analysis
 
 SQL was used to clean, transform, aggregate, and analyze the HR dataset.
 
@@ -83,7 +83,7 @@ Absenteeism analysis
 
 Employee risk scoring
 
-Statistical Analysis
+# Statistical Analysis
 
 Microsoft Excel was used to conduct statistical tests to investigate relationships and differences between HR variables.
 
@@ -99,7 +99,7 @@ Correlation analysis
 
 The statistical analysis was used to determine whether observed differences and relationships were statistically significant.
 
-Power BI Dashboard
+# Power BI Dashboard
 
 Power BI was used to create an interactive HR analytics dashboard.
 
@@ -123,13 +123,13 @@ Employee risk
 
 Dashboard screenshots are included in the project repository.
 
-Key Findings
+# Key Findings
 
 The analysis identified patterns in employee turnover, salary, performance, absenteeism, and workforce risk.
 
 The detailed findings and statistical results are documented in the project report.
 
-Business Recommendations
+# Business Recommendations
 
 Based on the analysis, recommendations focus on:
 
@@ -143,5 +143,75 @@ Supporting employee performance improvement
 
 Monitoring absenteeism
 
-Using HR analytics to support workforce decision-makingStatistical Analysis
+Using HR analytics to support workforce decision-making
+
+# Project Structure
+Meridian-HR-Analytics/
+
+│
+
+├── README.md
+
+│
+
+├── SQL/
+
+│   ├── Data_Cleaning.sql
+
+│   ├── Exploratory_Analysis.sql
+
+│   ├── Turnover_Analysis.sql
+
+│   ├── Salary_Analysis.sql
+
+│   └── Risk_Analysis.sql
+
+│
+
+├── PowerBI/
+
+│   ├── Meridian_HR_Dashboard.pbix
+
+│   └── dashboard_screenshots/
+
+│
+
+├── Excel/
+
+│   └── Statistical_Analysis.xlsx
+
+│
+
+├── Reports/
+
+│   └── Meridian_HR_Analysis_Report.pdf
+
+│
+
+└── images/
+
+    └── dashboard_preview.png
+    
+# Skills Demonstrated
+SQL
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+HR Analytics
+
+Statistical Analysis
+
+Data Visualization
+
+Power BI
+
+Excel
+
+Business Intelligence
+
+Data Storytelling
+
+Business Recommendations
 
