@@ -125,23 +125,32 @@ Dashboard screenshots are included in the project repository.
 
 # Key Findings
 
-The analysis identified patterns in employee turnover, salary, performance, absenteeism, and workforce risk.
+The analysis identified several patterns requiring further HR investigation:
 
-The detailed findings and statistical results are documented in the project report.
+1.        Salary levels vary across departments.
 
+2.        Turnover patterns differ across employment types and education levels.
+
+3.        Sales employees showed comparatively low average performance and salary in the analysis.
+
+4.        Salary, performance, absenteeism, and turnover were examined using descriptive and statistical methods.
+
+5.        The risk-scoring framework highlighted differences in the distribution of potential workforce concerns across departments.
+
+The findings should be interpreted in the context of the dataset, its quality, and the methods used. Observed relationships
 # Business Recommendations
 
 Based on the analysis, recommendations focus on:
 
-Improving employee retention strategies
+1.        Improving employee retention strategies
 
-Reviewing compensation patterns
+2.        Reviewing compensation patterns
 
-Monitoring high-risk employee groups
+3.        Monitoring high-risk employee groups
 
-Supporting employee performance improvement
+4.        Supporting employee performance improvement
 
-Monitoring absenteeism
+5.        Monitoring absenteeism
 
 Using HR analytics to support workforce decision-making
 
