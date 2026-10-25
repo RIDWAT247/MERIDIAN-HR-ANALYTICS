@@ -184,9 +184,7 @@ Meridian-HR-Analytics/
 │
 
 ├── PowerBI/
-
 │   ├── Meridian_HR_Dashboard.pbix
-
 │   └── dashboard_screenshots/
 
 │
