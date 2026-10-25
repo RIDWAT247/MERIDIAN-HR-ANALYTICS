@@ -159,27 +159,29 @@ Meridian-HR-Analytics/
 
 │
 
-├── 01_DATA/
+├──  01_DATA/
 
-|   └── Dataset 
+|    └── Dataset 
 
 │
 
-├── 02_SQL/
+├──  02_SQL/
 
-│   ├── Data_Cleaning.sql
+│    ├── Data_Cleaning.sql
 
-│   ├── Turnover_Analysis.sql
+│    ├── Turnover_Analysis.sql
 
-│   ├── Salary_Analysis.sql
+│    ├── Salary_Analysis.sql
 
-|   ├── Performance_Analysis.sql
+|    ├── Performance_Analysis.sql
 
-|   ├── Absenteeism_Analysis.sql
+|    ├── Absenteeism_Analysis.sql
 
-|   ├── Risk_Analysis.sql
+|    ├── Risk_Analysis.sql
 
-│   └── Statistical_Analysis.sql
+│    └── Statistical_Analysis.sql
+
+|
 
 ├── 03_EXCEL/
 
@@ -195,14 +197,13 @@ Meridian-HR-Analytics/
 
 │
 
-
 ├── REPORTS/
 
 │   └── Meridian_HR_Analysis_Report.pdf
 
 │
 
-└── images/
+└── README.md
 
     
     
