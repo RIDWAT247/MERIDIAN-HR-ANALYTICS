@@ -159,13 +159,13 @@ Meridian-HR-Analytics/
 
 │
 
-├── 01_DATA
+├── 01_DATA/
 
 |   └── Dataset 
 
 │
 
-├── SQL/
+├── 02_SQL/
 
 │   ├── Data_Cleaning.sql
 
@@ -181,21 +181,22 @@ Meridian-HR-Analytics/
 
 │   └── Statistical_Analysis.sql
 
-│
-
-├── PowerBI/
-│   ├── Meridian_HR_Dashboard.pbix
-│   └── dashboard_screenshots/
-
-│
-
-├── Excel/
+├── 03_EXCEL/
 
 │   └── Statistical_Analysis.xlsx
 
 │
 
-├── Reports/
+├── POWERBI/
+
+│   ├── Meridian_HR_Dashboard.pbix
+
+│   └── dashboard_screenshots/
+
+│
+
+
+├── REPORTS/
 
 │   └── Meridian_HR_Analysis_Report.pdf
 
@@ -203,7 +204,7 @@ Meridian-HR-Analytics/
 
 └── images/
 
-    └── dashboard_preview.png
+    
     
 # Skills Demonstrated
 SQL
