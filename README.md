@@ -159,22 +159,15 @@ Meridian-HR-Analytics/
 
 │
 
-├── README.md
-
+├── 01_DATA
+    └── Dataset 
 │
-
 ├── SQL/
-
 │   ├── Data_Cleaning.sql
-
-│   ├── Exploratory_Analysis.sql
-
 │   ├── Turnover_Analysis.sql
-
 │   ├── Salary_Analysis.sql
-
+    ├── Performance/absenteeism_Analysis.sql
 │   └── Risk_Analysis.sql
-
 │
 
 ├── PowerBI/
