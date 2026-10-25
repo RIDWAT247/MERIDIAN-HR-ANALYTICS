@@ -1,8 +1,9 @@
 # MERIDIAN-HR-ANALYTICS
 
+HR analytics project analyzing employee turnover, salary, performance, absenteeism and workforce risk using SQL, Excel and Power BI.
+
 <img width="1920" height="1080" alt="DASHBOARD_PREVIEW png" src="https://github.com/user-attachments/assets/d43b6f0a-e891-44ef-8885-11ac2e1ef1fd" />
 
-HR analytics project analyzing employee turnover, salary, performance, absenteeism and workforce risk using SQL, Excel and Power BI.
 # Project Overview
 The Meridian HR Analytics Project is an exploratory HR analytics project designed to analyze employee workforce data and identify factors associated with employee turnover, salary, performance, absenteeism, and workforce risk.
 The project demonstrates the use of SQL, Microsoft Excel, and Power BI to transform raw HR data into meaningful business insights and recommendations.
@@ -206,7 +207,16 @@ Meridian-HR-Analytics/
 
 │
 
+├── 06_IMAGES/
+
+│   ├── README.md
+
+│   └── dashboard_preview.png
+
+|
+
 └── README.md
+
 
     
     
