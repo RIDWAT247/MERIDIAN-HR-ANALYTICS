@@ -160,14 +160,27 @@ Meridian-HR-Analytics/
 │
 
 ├── 01_DATA
-    └── Dataset 
+
+|   └── Dataset 
+
 │
+
 ├── SQL/
+
 │   ├── Data_Cleaning.sql
+
 │   ├── Turnover_Analysis.sql
+
 │   ├── Salary_Analysis.sql
-    ├── Performance/absenteeism_Analysis.sql
-│   └── Risk_Analysis.sql
+
+|   ├── Performance_Analysis.sql
+
+|   ├── Absenteeism_Analysis.sql
+
+|   ├── Risk_Analysis.sql
+
+│   └── Statistical_Analysis.sql
+
 │
 
 ├── PowerBI/
